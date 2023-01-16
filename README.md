@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinwu15)](https://github.com/kevinwu15/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=kevinwu15)](https://github.com/kevinwu15/github-readme-stats)
 
