@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=kevinwu15)](https://github.com/kevinwu15/github-readme-stats)
-
